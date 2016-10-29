@@ -1,0 +1,54 @@
+                                          Customer report                                           
+----------------------------------------------------------------------------------------------------
+04-01-2013 - 22-02-2016                               Kr. Valdemara iela 23-7, Riga, LV-1147, Latvia
+Ozols Peteris                                                                                  11450
+  Account no: 11345 Type: Investments
+    Balance on start date:                                                                      0.00
+      Date: 04-09-2014, Time: 02:17:06 PM, Operation type: Incoming                          +100.00
+      Date: 11-10-2015, Time: 02:21:12 PM, Operation type: Incoming                           +25.00
+    Balance on period end date:                                                               125.00
+    Credit/Debit:                                                                   +125.00/   +0.00
+----------------------------------------------------------------------------------------------------
+04-01-2013 - 22-02-2016                                 Brivibas iela 3-22, Liepaja, LV-1398, Latvia
+Viksna Marija                                                                                  11450
+  Account no: 12895 Type: Loans
+    Balance on start date:                                                                      0.00
+      Date: 27-09-2015, Time: 08:34:56 AM, Operation type: Outgoing                          -100.00
+      Date: 10-01-2016, Time: 09:02:23 AM, Operation type: Outgoing                          +250.00
+    Balance on period end date:                                                               150.00
+    Credit/Debit:                                                                     +0.00/ +150.00
+----------------------------------------------------------------------------------------------------
+04-01-2013 - 22-02-2016                              J. Cakstes iela 34-18, Jelgava, LV-1003, Latvia
+Zile Janis                                                                                     11801
+  Account no: 11356 Type: Loans
+    Balance on start date:                                                                      0.00
+      Date: 23-03-2014, Time: 11:04:07 PM, Operation type: Outgoing                          -200.00
+      Date: 05-12-2015, Time: 03:44:32 PM, Operation type: Outgoing                          -100.00
+    Balance on period end date:                                                              -300.00
+    Credit/Debit:                                                                     +0.00/ -300.00
+----------------------------------------------------------------------------------------------------
+04-01-2013 - 22-02-2016                                    Krasta iela 134-4B, Riga, LV-1133, Latvia
+Spararats                                                                               123567234890
+  Account no: 11346 Type: Investments
+    Balance on start date:                                                                      0.00
+      Date: 12-02-2016, Time: 12:33:15 PM, Operation type: Incoming                         +2500.00
+    Balance on period end date:                                                              2500.00
+    Credit/Debit:                                                                  +2500.00/   +0.00
+----------------------------------------------------------------------------------------------------
+04-01-2013 - 22-02-2016                                 Aland St. 11-3-E34, Copenhagen, N/A, Denmark
+Skandeberg                                                                              134267786897
+  Account no: 11567 Type: Loans
+    Balance on start date:                                                                      0.00
+      Date: 21-02-2015, Time: 01:24:05 PM, Operation type: Outgoing                         -1000.00
+    Balance on period end date:                                                             -1000.00
+    Credit/Debit:                                                                     +0.00/-1000.00
+                                                  --------------------------------------------------
+  Account no: 11568 Type: Investments
+    Balance on start date:                                                                      0.00
+      Date: 01-01-2016, Time: 08:09:45 PM, Operation type: Incoming                          +500.00
+    Balance on period end date:                                                               500.00
+    Credit/Debit:                                                                   +500.00/   +0.00
+----------------------------------------------------------------------------------------------------
+                                           End of report                                            
+----------------------------------------------------------------------------------------------------
+
